@@ -31,7 +31,7 @@ Step 6 prints the deal, your total cost `c_deal` against `c_open` and `c_best`, 
 and a **replay link**: every e-mail and the supplier's reasons for each move, in words. That is
 the learning loop - play a practice case, read the replay, improve your agent, play
 again. In practice your best score per case counts, so play a case again whenever your agent improves.
-**Quota:** 200 practice sessions per team per rolling 24 hours. `arena play` and `arena run` print
+**Quota:** 400 practice sessions per team per rolling 24 hours. `arena play` and `arena run` print
 how many are left; `arena run` plays only the hosted practice cases and stops starting new ones
 once the quota is used up (a `429` there does not go away by retrying). Plan your runs.
 

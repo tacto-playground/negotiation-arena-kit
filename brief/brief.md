@@ -67,7 +67,7 @@ and show the match code it displays at the Tacto desk. Once we approve, the key 
 on that page: copy it, press "Got the key" - it stays there. Only that page shows it; lost it - we reset it.
 Tip: your team name may start with one emoji - it shows on the big screen (optional; nothing offensive).
 
-**Practice quota: 200 practice sessions per team per rolling 24 hours.** `GET /v1/me` shows what
+**Practice quota: 400 practice sessions per team per rolling 24 hours.** `GET /v1/me` shows what
 you have used and when it frees up. The build page `https://arena.tacto.ai/live` shows every team's quota use,
 practice records and highlights from the kickoff to the code freeze.
 
@@ -221,5 +221,5 @@ the Sunday release.
 - **Read the quote PDF** before you accept: what you did not negotiate closes on its standard terms.
 - **Ask, and offer alternatives.** Two or three term sheets show you what a supplier values.
 - **Don't leak** urgency, a budget or a missing alternative. Don't take the first offer.
-- **Plan your practice runs** (200 a day is for learning, not brute force) and **rehearse the
+- **Plan your practice runs** (400 a day is for learning, not brute force) and **rehearse the
   final**: all hosted cases in parallel, from Sunday's machine and network, well inside 8 minutes.

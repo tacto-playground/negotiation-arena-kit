@@ -64,7 +64,7 @@ in words. Read it, improve your agent, play again. Next steps, the LLM agent and
 | When | What |
 |---|---|
 | Sat 10:30 | Kickoff at the Tacto office: brief, data, kit and practice arena go live |
-| Sat 12:00 | Hacking starts at MUCL. Practice all weekend, overnight included: 200 sessions per team per 24 hours |
+| Sat 12:00 | Hacking starts at MUCL. Practice all weekend, overnight included: 400 sessions per team per 24 hours |
 | Sat from 14:00 | Office hours at MUCL |
 | Sun 08:00 | **New market data.** Run `uv run arena data` again; hidden cases may cite it |
 | Sun morning | Pre-flight: one practice case through your final setup |
