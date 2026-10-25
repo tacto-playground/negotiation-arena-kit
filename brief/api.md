@@ -82,7 +82,7 @@ from now on the 60-second clock runs per thread.
 | `opening` | the same quotes in the structured form of the `/moves` path |
 
 Practice: your best score per case counts; at most 10 sessions open at a time (`429`).
-**Quota: 400 practice sessions per team per rolling 24 hours.** Every practice session start
+**Quota: 600 practice sessions per team per rolling 24 hours.** Every practice session start
 answers with the header `X-Practice-Remaining: <sessions left>`. At the limit: `429` with a detail
 starting `practice limit:` that names `resets_at`, `X-Practice-Remaining: 0` and no `Retry-After` -
 retrying does not help before then. Sandbox and final sessions do not count. Final: one session per team and case; a second is a `409` naming the running session -
